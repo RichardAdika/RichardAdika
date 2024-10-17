@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Richard Adika
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning GIS 
+- 🌱 I’m currently learning Geospatial Analysis
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me richardadika86@gmail.com
 
